@@ -1,0 +1,12 @@
+.content-wrapper {
+  max-width: 1400px;
+  margin: 0 auto;
+  padding: 0 50px;
+
+  .list-wrapper {
+    display: flex;
+    flex-wrap: wrap;
+    margin: 150px 0;
+    justify-content: space-between;
+  }
+}
